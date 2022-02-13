@@ -262,6 +262,8 @@ button {
     color: rgba(51, 48, 48, 0.836);
     font-size: 0.7em;
     font-weight: lighter;
+    line-height: 1.1em;
+    height: 8.1em;
 }
 
 

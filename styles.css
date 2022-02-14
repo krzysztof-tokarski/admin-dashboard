@@ -49,6 +49,7 @@ body {
 
 #fixed-sidebar{
     background-color: var(--main-color);
+
 }
 
 #logo-div, 
@@ -123,7 +124,7 @@ svg {
     gap: 5px;
     background-color: var(--white-color);   
     padding-left: 50px;
-    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.158);
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.158);
     position: fixed;
     height: 200px;
     left:300px;
@@ -133,8 +134,7 @@ svg {
 }
 
 #fixed-navigation-bar {
-    position: relative;
-
+    background-color: var(--white-color);   
 }
 
 
@@ -246,6 +246,7 @@ button {
     display: grid;
     grid-template-columns: 4fr 1fr;
     background-color: #e4bee762;
+    overflow-x:hidden;
 }
 
 #cards-container {

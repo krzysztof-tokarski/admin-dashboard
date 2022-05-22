@@ -1,4 +1,4 @@
-# admin-dashboard
+# vanilla admin-dashboard
 
 Vanilla stack.
 
